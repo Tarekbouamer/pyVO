@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: pyVO
+Version: 0.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Tarek BOUAMER
+Author-email: tarekbouamer199147@gmail.com
+License: UNKNOWN
+Description: ## pyVO
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3, <4
+Description-Content-Type: text/markdown

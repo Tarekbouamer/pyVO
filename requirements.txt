@@ -1,0 +1,15 @@
+matplotlib==3.2.1
+numpy==1.18.3
+opencv-contrib-python==4.5.1.48
+opencv-python==4.5.1.48
+Pillow==7.0.0
+scipy==1.4.1
+tqdm==4.43.0
+termcolor
+scikit-build
+timer
+setuptools==40.8.0
+wheel
+futures
+pybind11==2.6.0
+PyOpenGL==3.1.5
